@@ -1,0 +1,33 @@
+body{
+    background: white;
+    font-family: 'Roboto', sans-serif;
+}
+.header.div{
+    background: red;
+    color:sandybrown;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    color:silver;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 1px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color:steelblue;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color:turquoise;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(244, 15, 28)
+}
